@@ -1,0 +1,41 @@
+
+a {
+   color: rgb(224, 15, 224);
+}
+div {
+   color: rgb(218, 144, 6);
+}
+.title {
+   color: red;
+}
+#loc {
+   color: LightCoral;
+}
+div.kino-text {
+   color: rgb(43, 209, 43);
+}
+.facts,
+.analogues {
+   color: rgb(8, 124, 240);
+}
+
+.kino-text.text-kino {
+   color: blueviolet;
+}
+
+.kino-texts {
+   color: rgb(97, 95, 95);
+}
+.texts-kino {
+   color: rgb(107, 202, 179);
+}
+.last p {
+color: rgb(107, 145, 95);
+}
+.last-block * {
+   color: RoyalBlue;
+}
+
+.one-block > p {
+   color: FireBrick;
+}
